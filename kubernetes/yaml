@@ -15,7 +15,7 @@ spec:
       hostNetwork: true
       containers:
       - name: iot
-        image: raidomingo/seneca-iot-tml-proj1
+        image: raidomingo/csp450-proj5_modification
         ports:
            - containerPort: 9005
              hostPort: 9005
